@@ -48,4 +48,32 @@ func sum() {
 * this 3rd sublist
 
 # ordered Lists
+1. first line
+2. second line
+
+   1.sub order1
+   
+   5.sub order2
+   
+   10.sub order again with 1
+   
+3. third line
+7. seventh line
+1. first line again
+
+# Horizontal lines
+###### before the rule we want a blank line(* three or more)
+**************
+###### And after as well
+
+###### In other way(-)
+-----
+###### and after way
+
+
+
+
+
+
+
 
